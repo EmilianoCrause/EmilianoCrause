@@ -1,16 +1,29 @@
-## Hi there 👋
+### Estudiante de Ciberseguridad | Desarrollo Full Stack
 
-<!--
-**EmilianoCrause/EmilianoCrause** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Ciberseguridad y con formación en
+desarrollo web (Jóvenes a Programar). Combino ambos mundos: construyo
+aplicaciones y aprendo a encontrar y entender sus vulnerabilidades.
 
-Here are some ideas to get you started:
+- Formación: Ciberseguridad en BIOS y UTU
+- Enfocado en: Pentesting (DockerLabs/HTB), análisis de vulnerabilidades
+  y desarrollo seguro
+- Ubicación: Montevideo, Uruguay
+- LinkedIn: https://www.linkedin.com/in/emilianocrause/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Proyectos destacados
+
+- [eMercado](https://github.com/EmilianoCrause/proyecto_final) - E-commerce
+  full stack con Node.js, Express, SQLite y autenticación JWT
+- [Writeups DockerLabs](https://github.com/EmilianoCrause/CTF-Writeups) - Resolución documentada de laboratorios
+
+---
+
+### Tecnologías y herramientas
+
+**Desarrollo:** `JavaScript` | `Node.js` | `Express` | `SQLite` | `HTML` | `CSS` | `Git`
+
+**Sistemas y herramientas:** `Linux` | `Kali Linux` | `Bash` | `Docker` | `Nmap`
+
+**Técnicas de pentesting:** `Fuzzing` | `SQL Injection` | `Reverse Shell`
